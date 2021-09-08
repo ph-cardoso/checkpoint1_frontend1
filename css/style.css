@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Kalam&family=Roboto:wght@300;400&display=swap');
 
-/* font-family: 'Kalam', cursive;
-font-family: 'Roboto', sans-serif; */
-
 :root{
     --banner-color: linear-gradient(90deg, rgba(230,230,230,1) 0%, rgba(236,236,236,1) 100%);
     --text-color: #262626;
